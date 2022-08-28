@@ -1,5 +1,5 @@
 # My NGram
-This application takes a series of string and prints the frequency of ASCII characters in alphanumerical order for characters with a frequency greater than 0.
+This application takes a series of strings and prints the frequency of ASCII characters in alphanumerical order for characters with a frequency greater than 0.
 
 
 ## Screenshot
